@@ -13,3 +13,8 @@
 * Web service defination language defines the contract of web service.
 * UDDI - Universal Description discovery and Integration.. registry for webservices.
 * <wsdl:service> contain detail of service operation exposed.
+
+
+#### Creating SEI
+* create a sei folder
+* run command ``` wsimport <WSDL_URI>
