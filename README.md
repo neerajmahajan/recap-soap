@@ -34,6 +34,10 @@
 * It has a set of operations(Method), with input method arguments information and return type
 * portType is the serviceName that exposes set of operations.
 * binding defines how the service accept requests(eg over http) and send response.
+* service is list of ports
+* input has a message would contain set of parameters.
+* output has a message.
+* Each message refers to types.
 ```
 <definitions>
     <types></types>
