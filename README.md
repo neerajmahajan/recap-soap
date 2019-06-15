@@ -38,6 +38,7 @@
 * input has a message would contain set of parameters.
 * output has a message.
 * Each message refers to types.
+* Style in binding can have rpc or document.
 ```
 <definitions>
     <types></types>
